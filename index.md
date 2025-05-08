@@ -2,8 +2,6 @@
 layout: home.njk
 ---
 
-# Developing an Action Plan for Rural Informatics
-
 Despite almost a quarter of the world’s population living in rural areas, ruralfocused CSCW makes up a tiny fraction of published CSCW research and design. When
 CSCW work does focus on the rural there are issues with the way rurality is identified and
 understood and limitations in the approaches to research and design in rural contexts.
