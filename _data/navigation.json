@@ -5,5 +5,11 @@
     { "text": "Call for Participation", "href": "/#call-for-participation" },
     { "text": "Organisers", "href": "/#organisers" },
     { "text": "Contact", "href": "/#contact" }
+  ],
+  "secondary": [
+      {
+      "text": "ECSCW '25",
+      "href": "https://ecscw.eusset.eu/2025/"
+      },
   ]
 }
