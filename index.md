@@ -89,14 +89,14 @@ priorities.
 
 ## Organisers
 
-###[Ben Davies](https://openlab.ncl.ac.uk/people/ben-davies/)
+**[Ben Davies](https://openlab.ncl.ac.uk/people/ben-davies/)**
 
 Ben is a first year PhD student exploring the design and use of digital technologies
 for rural communities. He is interested in how social and technological
 infrastructures support information sharing and civic participation, and in the
 potential for socio-technical innovations to support rural resilience.
 
-###[Ian G Johnson](https://openlab.ncl.ac.uk/people/ian-johnson/)
+**[Ian G Johnson](https://openlab.ncl.ac.uk/people/ian-johnson/)**
 
 Ian is a Lecturer in Human-Computer Interaction and Community Technologies at
 Open Lab, Newcastle University. He has a background in the social sciences and
@@ -109,7 +109,7 @@ and evidence in local-level policymaking, on the creation of spaces for civic
 discourse, and on the way citizen-led organizations can create resources for
 democratic action through configuring participation during local consultation.
 
-###[Nick Taylor](https://openlab.ncl.ac.uk/people/nick-taylor/)
+**[Nick Taylor](https://openlab.ncl.ac.uk/people/nick-taylor/)**
 
 Nick is a Senior Lecturer in Human-Computer Interaction in Open Lab at
 Newcastle University. His research attempts to understand the impact of emerging
@@ -118,7 +118,7 @@ preferable futures around those technologies. Much of this work has focused on t
 role of technology in communities, including longitudinal technology deployments
 in rural Lancashire.
 
-###[Alan Chamberlain](https://www.nottingham.ac.uk/computerscience/people/alan.chamberlain)
+**[Alan Chamberlain](https://www.nottingham.ac.uk/computerscience/people/alan.chamberlain)**
 
 Alan is a Principal Research Fellow at the University of Nottingham, in the Mixed
 Reality Lab, Computer Science. His research focuses upon interdisciplinary
