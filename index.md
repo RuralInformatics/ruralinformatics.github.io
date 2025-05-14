@@ -58,6 +58,8 @@ the discussions are dynamic and engaging and that all participants have time and
 space to contribute whilst also including a broad range of backgrounds and
 perspectives.
 
+The deadline for submissions is the **30th May** (23:59 AoE).
+
 Please submit using **[this form](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)**.
 
 ### Workshop Themes
