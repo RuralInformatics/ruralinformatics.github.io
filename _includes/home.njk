@@ -14,18 +14,17 @@ layout: html.njk
 <main class="siteMain" id="home">
   <center-layout space="s0" gutters="s-1" class="flow">
     {{ content | safe }}
+    <switcher-layout>
+        <doc-box height="100px">
+            <img src="/assets/RAiUK_logo.png" />
+        </doc-box>
+        <doc-box height="100px">
+            <img src="/assets/Soma_Design.png" />
+        </doc-box>
+        <doc-box height="100px">
+            <img src="/assets/Stahr_logo.jpg" />
+        </doc-box>
+    </switcher-layout>
   </center-layout>
 </main>
-
-<switcher-layout>
-  <doc-box height="100px">
-    <img src="/assets/RAiUK_logo.png" />
-  </doc-box>
-  <doc-box height="100px">
-    <img src="/assets/Soma_Design.png" />
-  </doc-box>
-  <doc-box height="100px">
-    <img src="/assets/Stahr_logo.jpg" />
-  </doc-box>
-</switcher-layout>
 
