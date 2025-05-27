@@ -140,7 +140,3 @@ For more information, please contact Ben ([b.davies7@newcastle.ac.uk](mailto:b.d
 
 This work was supported by the Engineering and Physical Sciences Research Council through the Turing AI World Leading Researcher Fellowship in Somabotics: Creatively Embodying Artificial Intelligence [grant number APP22478], AI UK: Creating an International Ecosystem for Responsible AI Research and Innovation [EP/Y009800/1] (RAI UK/RAKE) and the [STAHR Collective](https://www.stahrc.org)
 
-![logo1](assets/RAiUK_logo.png)
-![logo2](assets/Soma_Design.png)
-![logo3](assets/Stahr_logo.jpg)
-
