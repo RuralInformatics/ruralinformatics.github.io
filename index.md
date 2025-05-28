@@ -62,6 +62,14 @@ The deadline for submissions is the **30th May** (23:59 AoE).
 
 Please submit using **[this form](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)**.
 
+### Registration
+
+Workshop participants must register for either the Pre-Conference or Full Week conference.
+
+**The deadline for early-bird registration has now been extended to the 30th May and prices for pre-conference registration have been reduced.**
+
+Details about conference registration can be found on the ECSCW '25 conference website **[here](https://ecscw.eusset.eu/2025/index.php/registration-costs/)**
+
 ### Workshop Themes
 
 The overall aim of this workshop will be to create a plan of action for future rural
