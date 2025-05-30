@@ -49,6 +49,12 @@ engage with rural challenges.
 
 ## Call for Participation
 
+**Submission Format:** Example of your work, such as a case study, position statement or equivalent, that demonstrates engagement either with rural informatics/rural computing or with a relevant area of interest
+**Submission Deadline:** ~~May 30th~~ June 12th, 2025 (23:59 AoE)
+**Notification of Acceptance:** June 17th, 2025
+**Workshop Date:** July 1, 2025
+**Submission Form**: [Click this link](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)
+
 ### Submission Format
 
 We are asking participants  to submit an example of their work, such as a case study, position statement or equivalent, that demonstrates engagement either with rural informatics/rural computing or with a relevant area of interest. We are keen to keep the barrier to entry as low as possible to encourage participation from a wide range of academics and practitioners
@@ -58,7 +64,7 @@ the discussions are dynamic and engaging and that all participants have time and
 space to contribute whilst also including a broad range of backgrounds and
 perspectives.
 
-The deadline for submissions is the **30th May** (23:59 AoE).
+The deadline for submissions is the*~~30th May~~**12th June** (23:59 AoE). Successful authors will be notified on the 17th June and the workshop will take place on the 1st July.
 
 Please submit using **[this form](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)**.
 
