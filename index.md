@@ -26,7 +26,7 @@ rural challenges where CSCW researchers can have the biggest impact.
 
 The workshop will run over a half-day.
 
-- **60-90 mins** Presentations and provocations: Co-organizers of this workshop,
+- **09:30 - 10:30** Presentations and provocations: Co-organizers of this workshop,
 additional experts within rural informatics and representatives from rural
 community organizations will be invited to deliver fifteen to twenty minute
 “provocations” informed by their ongoing work within rural contexts and
@@ -36,12 +36,13 @@ rural, etc.). The main aim of this session isto contribute to the later thematic
 conversations by giving a glimpse into the plurality and diversity of the
 rural, while also giving us some frameworks or lenses to see through
 challenges and potential technological responses.
-- **90-120 mins** Themed discussion tables. We will set up 3-4 tables with each
+- **10:30 - 10:45** Coffee break
+- **10:45 - 12:00** Themed discussion tables. We will set up 3-4 tables with each
 table focusing on one topic that we have identified from recent research
 within rural communities. Each table will be coordinated by a facilitator
 who will take notes during the discussion. The aim of these discussions will
 be to mobilize experience of rural research and expertise from complementary research fields around the challenges presented in the “provocations”.
-- **15-30 mins**  Summary and next steps. Organizers talk in plenary and set out
+- **12:00 - 12:15**  Summary and next steps. Organizers talk in plenary and set out
 immediate next steps for the group. The notes from each discussion table
 will be shared in order to provide key directions for CSCW research to
 engage with rural challenges.
