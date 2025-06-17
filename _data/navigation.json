@@ -2,7 +2,7 @@
   "primary": [
     { "text": "About", "href": "/#home" },
     { "text": "Schedule", "href": "/#schedule" },
-    { "text": "Call for Participation", "href": "/#call-for-participation" },
+    { "text": "Participation", "href": "/#participation" },
     { "text": "Organisers", "href": "/#organisers" },
     { "text": "Contact", "href": "/#contact" }
   ],
