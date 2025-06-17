@@ -10,14 +10,16 @@
   </head>
   <body>
     <header class="siteHeader">
-      <a class="siteHeader-brand" href="/" >{{ site.title }}</a>
-      <nav class="nav">
-        <ul role="list">
-          {% for item in navigation.primary %}
-          <li><a href="{{ item.href }}">{{ item.text }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
+      <switcher-layout>
+        <a class="siteHeader-brand" href="/" >{{ site.title }}</a>
+        <nav class="nav">
+          <ul role="list">
+            {% for item in navigation.primary %}
+              <li><a href="{{ item.href }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </switcher-layout>
     </header>
 
     {{ content | safe }}
