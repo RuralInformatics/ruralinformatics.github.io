@@ -48,7 +48,7 @@ will be shared in order to provide key directions for CSCW research to
 engage with rural challenges.
 
 
-## Call for Participation
+## Participation
 
 **Submission Format:** Example of your work, such as a case study, position statement or equivalent, that demonstrates engagement either with rural informatics/rural computing or with a relevant area of interest
 
