@@ -47,7 +47,7 @@ immediate next steps for the group. The notes from each discussion table
 will be shared in order to provide key directions for CSCW research to
 engage with rural challenges.
 
-{% include schedule.html %}
+{% include 'schedule.html' %}
 
 ## Participation
 
