@@ -35,8 +35,8 @@ Participants will be invited to give short "lightning" presentations of around 3
 - Sharon Wagg - Digital Inclusion Network Development: A Case Study In Derbyshire
 - Philipp Rutz - Transformation of the Automotive Industry in German Rural Regions
 - Antti Knutas - Energy interface design principle prioritization workshop (for rural Finnish households)
-- Ben Davies - Exploring rural resilience through a community display network
 - Alan Dix - Techwaves overview
+- Ben Davies - Exploring rural resilience through a community display network
   
 ### 10:30 - 10:45 Coffee break
 
