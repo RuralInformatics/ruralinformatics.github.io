@@ -40,28 +40,19 @@ Participants will be invited to give short "lightning" presentations of around 3
   
 ### 10:30 - 10:45 Coffee break
 
-We will discuss what themes are emerging from the topics discussed in the presentations and from their own work. 
+There will be an opportunity to discuss informally what themes have emerged from the presentations and from participant's own work and experiences. 
 
 ### 10:45 - 11:25 From themes to goals (group discussions)
 
-We will break into small group discussions to unpack some of these themes with a focus on:
-- What opportunities are present for rural researchers to engage positively with this theme
-- What challenges and barriers does this theme present for rural CSCW work
-- How might this theme connect to other themes/the broader rural context
-  
-This discussion will identify some goals that can be the obejctive for a rural CSCW action plan
+Small group discussions to identify goals for future actions on key themes in rural CSCW.
 
 ### 11:25 - 11:45 From goals to actions (group discussions)
 
-In groups, we will identify possible actions that could be taken by the rural CSCW community to contribute to achieving these goals.
-For each action, we will consider:
-- Why this action would advance progress on a particular goal
-- What approaches/methods we should take to this action
-- How might this action might contribute to or undermine progress on our other goals
+Small group discussions envisaging possible actions that could be taken by the rural CSCW community to further previously identified goals.
 
 ### 11:45 - 12:15 Prioritising actions and next steps
 
-Each group will be able to feed back their actions. We will collectively discuss which actions might have the greatest impact and which actions face the most barriers to implementation. We will use this discussion to prioritise immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
+Each group will be able to feed back their actions. Collectively actions will be prioritised based on which might have the greatest impact and which actions face the most barriers to implementation. The result will be some immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
 
 ### 12:15 - 13:15 Lunch
 
