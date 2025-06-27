@@ -26,26 +26,44 @@ rural challenges where CSCW researchers can have the biggest impact.
 
 The workshop will run over a half-day.
 
-- **09:30 - 10:30** Presentations and provocations: Co-organizers of this workshop,
-additional experts within rural informatics and representatives from rural
-community organizations will be invited to deliver fifteen to twenty minute
-“provocations” informed by their ongoing work within rural contexts and
-with rural communities. These might be context or domain-specific but
-should relate to the thematic areas (i.e., defining the rural, imagining the
-rural, etc.). The main aim of this session isto contribute to the later thematic
-conversations by giving a glimpse into the plurality and diversity of the
-rural, while also giving us some frameworks or lenses to see through
-challenges and potential technological responses.
-- **10:30 - 10:45** Coffee break
-- **10:45 - 12:00** Themed discussion tables. We will set up 3-4 tables with each
-table focusing on one topic that we have identified from recent research
-within rural communities. Each table will be coordinated by a facilitator
-who will take notes during the discussion. The aim of these discussions will
-be to mobilize experience of rural research and expertise from complementary research fields around the challenges presented in the “provocations”.
-- **12:00 - 12:15**  Summary and next steps. Organizers talk in plenary and set out
-immediate next steps for the group. The notes from each discussion table
-will be shared in order to provide key directions for CSCW research to
-engage with rural challenges.
+### 9:30 - 10:30  Presentations and provocations
+
+Participants will be invited to give short "lightning" presentations of around 3-5 mins where people can introduce themselves and their experiences of working in rural settings.
+
+**Presentations**
+- Thomas Ludwig - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
+- Sharon Wagg - Digital Inclusion Network Development: A Case Study In Derbyshire
+- Philipp Rutz - Transformation of the Automotive Industry in German Rural Regions
+- Antti Knutas - Energy interface design principle prioritization workshop (for rural Finnish households)
+- Ben Davies - Exploring rural resilience through a community display network
+- Alan Dix - Techwaves overview
+  
+### 10:30 - 10:45 Coffee break
+
+We will discuss what themes are emerging from the topics discussed in the presentations and from their own work. 
+
+### 10:45 - 11:25 From themes to goals (group discussions)
+
+We will break into small group discussions to unpack some of these themes with a focus on:
+- What opportunities are present for rural researchers to engage positively with this theme
+- What challenges and barriers does this theme present for rural CSCW work
+- How might this theme connect to other themes/the broader rural context
+  
+This discussion will identify some goals that can be the obejctive for a rural CSCW action plan
+
+### 11:25 - 11:45 From goals to actions (group discussions)
+
+In groups, we will identify possible actions that could be taken by the rural CSCW community to contribute to achieving these goals.
+For each action, we will consider:
+- Why this action would advance progress on a particular goal
+- What approaches/methods we should take to this action
+- How might this action might contribute to or undermine progress on our other goals
+
+### 11:45 - 12:15 Prioritising actions and next steps
+
+Each group will be able to feed back their actions. We will collectively discuss which actions might have the greatest impact and which actions face the most barriers to implementation. We will use this discussion to prioritise immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
+
+### 12:15 - 13:15 Lunch
 
 
 ## Participation
