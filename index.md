@@ -107,7 +107,7 @@ After briefly feeding back as a group, further small group discussions then envi
 
 This Miro board represents a first attempt by the organisers to group these actions into a plan and a resource for future research. As it stands the plan is a work in progress, intended to stimulate further discussions and collaborations around rural computing.  
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?embedMode=view_only_without_ui&moveToViewport=-3934,-1740,4475,2091&embedId=679975108027" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="496" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?focusWidget=3458764599827483457&embedMode=view_only_without_ui&embedId=348870768919" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Next steps
 
