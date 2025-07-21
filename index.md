@@ -16,6 +16,8 @@ areas and the importance of information technology to rural resilience is ever m
 apparent, the need to innovate and design from the rural must become more central to
 CSCW. 
 
+This workshop took place at the ECSCW 2025 conference at Newcastle University on the 1st July. 
+
 The aim of this workshop was to  provide researchers and practitioners interested in rural CSCW
 and rural computing an opportunity to discuss future directions and share insights,
 ideas, and issues from different rural contexts. It facilitated cross-disciplinary
@@ -103,9 +105,13 @@ Fragility was identified as a theme linking infrastructure, technology, human ne
 
 After briefly feeding back as a group, further small group discussions then envisaged possible actions that could be taken by the rural CSCW community to further the previously identified goals.
 
+This Miro board represents a first attempt by the organisers to group these actions into a plan and a resource for future research. As it stands the plan is a work in progress, intended to stimulate further discussions and collaborations around rural computing.  
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?embedMode=view_only_without_ui&moveToViewport=-3934,-1740,4475,2091&embedId=679975108027" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Next steps
+
+The success of this workshop revealed the potential of the rural to bring together different researchers and approaches from CSCW and other fields to address practical issues and to tangibly improve the every day lives of marginalised and under-resourced communities. We look forward to further developing our action plan and the rural informatics community, not least through running successor workshops at future conferences.   
 
 
 ## Organisers
