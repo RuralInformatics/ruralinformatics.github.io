@@ -25,6 +25,9 @@ collaboratively set pathways and approaches for a rural informatics research
 agenda. As a result of the workshop we began to put together an action plan to orient future activity around key
 rural challenges where CSCW researchers could have the biggest impact.
 
+<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+
 ## Workshop Themes
 
 The overall aim of this workshop was to create a plan of action for future rural
@@ -52,9 +55,15 @@ frames of rural identities be used to re-imagine the rural?
 5. Re-making the rural: How rural? Setting out approaches, methods, and
 priorities.
 
-<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+## Materials
 
-## Presentations and provocations
+Participants were given pre-filled "workbooks" to provide some structure to the discussions and activities. 
+
+<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={ec973a7b-bbfc-4de2-a08f-1890a955de7b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+## Participants and presentations
+
+Eleven people participated in our hybrid workshop - three online and eight in person.
 
 Participants were invited to give short "lightning" presentations of around 3-5 mins to introduce themselves and their experiences of working in rural settings.
 
@@ -70,17 +79,29 @@ Participants were invited to give short "lightning" presentations of around 3-5 
 | <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
 
   
-## From themes to goals
+## From themes to (goals to) actions
 
-Small group discussions to identify goals for future actions on key themes in rural CSCW.
 
-## From goals to actions
+Participants broke out into groups to identify goals for three key themes in rural CSCW research. 
 
-Small group discussions envisaging possible actions that could be taken by the rural CSCW community to further previously identified goals.
+
+### 1. Energy
+
+In response to skyrocketing energy prices, rural communities across Europe are forming renewable energy communities and energy production cooperatives, sometimes inspired by historic traditional models of collaboration. These efforts face practical challenges in the form of old and poorly insulated housing, energy grids unable to deal with additional capacity, and renewable generation technologies that do not meet energy demand patterns. However, the greatest challenges arise when dealing with the complex regulatory requirements, which can be very resource intensive. Participants discussed how future CSCW research on energy usage could shift away from its previous focus on individual behaviour change to instead focus on building community capacity for collective action on energy.
+
+### 2. Culture
+
+Cultural barriers between researchers and rural communities presents a signficant challenge to successful participatory research with rural communities beyond existing partner organisations. Participants identified methodoligical challenges to accessing rural field sites and the necessity of forming long term reciprocal relationships with rural partners. In particular, there is a need for "polyvocality" in rural research to represent the diversity of the rural. Participants set a goal for future researcher to bridge the cultural differences between researchers and rural collaborators, acknowledging that this would require more of a focus on digital inclusion opportunities and accessibility. 
+
+### 3. Fragility
+
+Fragility was identified as a theme linking infrastructure, technology, human networks, policy and culture in the rural. Participants identified the need to appreciate the complex and multi-faceted nature of smaller groups and the emergent practices resulting from their internal power dynamics. Participants advocated a focus on the particular needs of the rural context by developing concerns from the people that are being worked with, rather than general understandings and assumptions about rurality as a whole.
+
+
 
 ## Prioritising actions
 
-Each group will be able to feed back their actions. Collectively actions will be prioritised based on which might have the greatest impact and which actions face the most barriers to implementation. The result will be some immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
+After briefly feeding back as a group, further small group discussions then envisaged possible actions that could be taken by the rural CSCW community to further the previously identified goals.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?embedMode=view_only_without_ui&moveToViewport=-3934,-1740,4475,2091&embedId=679975108027" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
