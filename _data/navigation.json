@@ -1,8 +1,6 @@
 {
   "primary": [
     { "text": "About", "href": "/#home" },
-    { "text": "Schedule", "href": "/#schedule" },
-    { "text": "Participation", "href": "/#participation" },
     { "text": "Organisers", "href": "/#organisers" },
     { "text": "Contact", "href": "/#contact" }
   ],

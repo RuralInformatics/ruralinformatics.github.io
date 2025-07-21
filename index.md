@@ -85,15 +85,15 @@ Participants were invited to give short "lightning" presentations of around 3-5 
 Participants broke out into groups to identify goals for three key themes in rural CSCW research. 
 
 
-### 1. Energy
+### Energy
 
 In response to skyrocketing energy prices, rural communities across Europe are forming renewable energy communities and energy production cooperatives, sometimes inspired by historic traditional models of collaboration. These efforts face practical challenges in the form of old and poorly insulated housing, energy grids unable to deal with additional capacity, and renewable generation technologies that do not meet energy demand patterns. However, the greatest challenges arise when dealing with the complex regulatory requirements, which can be very resource intensive. Participants discussed how future CSCW research on energy usage could shift away from its previous focus on individual behaviour change to instead focus on building community capacity for collective action on energy.
 
-### 2. Culture
+### Culture
 
 Cultural barriers between researchers and rural communities presents a signficant challenge to successful participatory research with rural communities beyond existing partner organisations. Participants identified methodoligical challenges to accessing rural field sites and the necessity of forming long term reciprocal relationships with rural partners. In particular, there is a need for "polyvocality" in rural research to represent the diversity of the rural. Participants set a goal for future researcher to bridge the cultural differences between researchers and rural collaborators, acknowledging that this would require more of a focus on digital inclusion opportunities and accessibility. 
 
-### 3. Fragility
+### Fragility
 
 Fragility was identified as a theme linking infrastructure, technology, human networks, policy and culture in the rural. Participants identified the need to appreciate the complex and multi-faceted nature of smaller groups and the emergent practices resulting from their internal power dynamics. Participants advocated a focus on the particular needs of the rural context by developing concerns from the people that are being worked with, rather than general understandings and assumptions about rurality as a whole.
 
