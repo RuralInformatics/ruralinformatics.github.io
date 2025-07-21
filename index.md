@@ -31,18 +31,29 @@ The workshop ran over a half-day.
 Participants were invited to give short "lightning" presentations of around 3-5 mins to introduce themselves and their experiences of working in rural settings.
 
 <img src="https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg" width="100">
-[**Thomas Ludwig**](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
+**[Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/)** - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
 
 <img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb" width="100">
-[**Sharon Wagg**](https://sheffield.ac.uk/ijc/people/sharon-wagg) - Digital Inclusion Network Development: A Case Study In Derbyshire
+**[Sharon Wagg](https://sheffield.ac.uk/ijc/people/sharon-wagg)** - Digital Inclusion Network Development: A Case Study In Derbyshire
 
-**Presentations**
-- Thomas Ludwig - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
-- Sharon Wagg - Digital Inclusion Network Development: A Case Study In Derbyshire
-- Philipp Rutz - Transformation of the Automotive Industry in German Rural Regions
-- Antti Knutas - Energy interface design principle prioritization workshop (for rural Finnish households)
-- Alan Dix - Techwaves overview
-- Ben Davies - Exploring rural resilience through a community display network
+<img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2024/02/Bewerbungsbild.png" width="100">
+**[Philipp Rutz](https://italg.wineme.uni-siegen.de/en/team/m-sc-philipp-rutz/)** - Transformation of the Automotive Industry in German Rural Regions
+
+<img src="https://www.lut.fi/sites/default/files/styles/profile_image_2x/public/profiles/Antti_Knutas_40268_1713277570.jpg.webp?itok=IlkvzEBN" width="100">
+**[Antti Knutas](https://www.lut.fi/en/profiles/antti-knutas)** - Energy Interface Design Principle Prioritization Workshop (for Rural Finnish Households)
+
+<img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2017/11/Sven_Hoffmann.jpg" width="100">
+**[Sven Hoffmann](https://www.wineme.uni-siegen.de/team/hoffmann/)** - Convergence of Digitalisation and Circular Economy 
+ 
+<img src="http://www.alandix.com/images/alan-australia.jpg" width="100">
+**[Alan Dix](https://alandix.com/)** - Tiree Tech Waves
+
+<img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2016/11/volker_wulf.jpg" width="100">
+**[Volker Wulf](https://www.wineme.uni-siegen.de/team/wulf/)**
+
+<img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" width="100">
+**[Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/)**
+
   
 ### 10:30 - 10:45 Coffee break
 
@@ -125,6 +136,7 @@ priorities.
 
 ## Organisers
 
+<img src="https://openlab.ncl.ac.uk/assets/people-ben-davies-medium.jpg" width="100">
 **[Ben Davies](https://openlab.ncl.ac.uk/people/ben-davies/)**
 
 Ben is a first year PhD student exploring the design and use of digital technologies
@@ -132,6 +144,7 @@ for rural communities. He is interested in how social and technological
 infrastructures support information sharing and civic participation, and in the
 potential for socio-technical innovations to support rural resilience.
 
+<img src="https://openlab.ncl.ac.uk/assets/people-ian-johnson-medium.jpg" width="100">
 **[Ian G Johnson](https://openlab.ncl.ac.uk/people/ian-johnson/)**
 
 Ian is a Lecturer in Human-Computer Interaction and Community Technologies at
@@ -145,6 +158,7 @@ and evidence in local-level policymaking, on the creation of spaces for civic
 discourse, and on the way citizen-led organizations can create resources for
 democratic action through configuring participation during local consultation.
 
+<img src="https://openlab.ncl.ac.uk/assets/people-nick-taylor2-medium.jpg" width="100">
 **[Nick Taylor](https://openlab.ncl.ac.uk/people/nick-taylor/)**
 
 Nick is a Senior Lecturer in Human-Computer Interaction in Open Lab at
@@ -154,6 +168,7 @@ preferable futures around those technologies. Much of this work has focused on t
 role of technology in communities, including longitudinal technology deployments
 in rural Lancashire.
 
+<img src="https://rai.ac.uk/wp-content/uploads/2025/02/Alan-Chamberlain.png" width="100">
 **[Alan Chamberlain](https://www.nottingham.ac.uk/computerscience/people/alan.chamberlain)**
 
 Alan is a Principal Research Fellow at the University of Nottingham, in the Mixed
