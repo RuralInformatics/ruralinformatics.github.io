@@ -2,8 +2,11 @@
 layout: home.njk
 ---
 
-Despite almost a quarter of the world’s population living in rural areas, ruralfocused CSCW makes up a tiny fraction of published CSCW research and design. When
-CSCW work does focus on the rural there are issues with the way rurality is identified and
+![Header image](https://newcastle-my.sharepoint.com/:i:/r/personal/c4069226_newcastle_ac_uk/Documents/BD_PhD/ecscw%202025/shared%20image.jfif?csf=1&web=1&e=fSqSb0)
+
+## Introduction
+
+Despite almost a quarter of the world’s population living in rural areas, ruralfocused CSCW makes up a tiny fraction of published CSCW research and design. When CSCW work does focus on the rural there are issues with the way rurality is identified and
 understood and limitations in the approaches to research and design in rural contexts.
 Building on a recent increased interest in rural informatics, which has drawn on social
 science scholarship to take stock of previous rural research and set an agenda for rural
@@ -13,22 +16,45 @@ areas and the importance of information technology to rural resilience is ever m
 apparent, the need to innovate and design from the rural must become more central to
 CSCW. 
 
-This workshop will provide researchers and practitioners interested in rural CSCW
+The aim of this workshop was to  provide researchers and practitioners interested in rural CSCW
 and rural computing an opportunity to discuss future directions and share insights,
-ideas, and issues from different rural contexts. It will facilitate cross-disciplinary
+ideas, and issues from different rural contexts. It facilitated cross-disciplinary
 and cross-sector discussion, sharing, and understanding on current issues, research,
-and community development work. The workshop will create an opportunity to
+and community development work. The workshop created an opportunity to
 collaboratively set pathways and approaches for a rural informatics research
-agenda. We aim to create an action plan that will orient future activity around key
-rural challenges where CSCW researchers can have the biggest impact.
+agenda. As a result of the workshop we began to put together an action plan to orient future activity around key
+rural challenges where CSCW researchers could have the biggest impact.
 
-## Schedule
+## Workshop Themes
 
-The workshop ran over a half-day.
+The overall aim of this workshop was to create a plan of action for future rural
+informatics research briding sociological considerations (i.e. that has a good
+understanding of the challenges) with computing (i.e. what are the technological
+potentials for sustainable and resilient rural communities). We explored:
+what approaches are required in rural contexts? What can we learn from prior
+CSCW work and its breakdowns? What additional complexities are there when
+designing technologies in, for, with, and from the rural?
+
+We suggested five broad topics for discussion, that cover the ontological nature (how
+the rural came to be), epistemological questions (how we know and understand the
+rural) and methodological questions (how we intervene as researchers and
+designers) relevant to rural computing research:
+
+1. Approaching the rural: Why rural? Establishing motivations and
+inspirations.
+2. Defining the rural: Who is rural? Identities, characteristics, and positionality.
+3. Imagining the rural: Where is the rural? Contexts, boundaries, and
+discourses; there is no single vantage point from which to see the rural whole;
+so, we need to reflect upon the lenses (e.g. academic, media, lay), and frames
+that we privilege, bypass, draw from, start from or end with.
+4. Re-imagining the rural: When is the rural? How could different lenses and
+frames of rural identities be used to re-imagine the rural?
+5. Re-making the rural: How rural? Setting out approaches, methods, and
+priorities.
 
 <iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-### 9:30 - 10:30  Presentations and provocations
+## Presentations and provocations
 
 Participants were invited to give short "lightning" presentations of around 3-5 mins to introduce themselves and their experiences of working in rural settings.
 
@@ -44,86 +70,22 @@ Participants were invited to give short "lightning" presentations of around 3-5 
 | <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
 
   
-### 10:30 - 10:45 Coffee break
-
-There will be an opportunity to discuss informally what themes have emerged from the presentations and from participant's own work and experiences. 
-
-### 10:45 - 11:25 From themes to goals (group discussions)
+## From themes to goals
 
 Small group discussions to identify goals for future actions on key themes in rural CSCW.
 
-### 11:25 - 11:45 From goals to actions (group discussions)
+## From goals to actions
 
 Small group discussions envisaging possible actions that could be taken by the rural CSCW community to further previously identified goals.
 
-### 11:45 - 12:15 Prioritising actions and next steps
+## Prioritising actions
 
 Each group will be able to feed back their actions. Collectively actions will be prioritised based on which might have the greatest impact and which actions face the most barriers to implementation. The result will be some immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?embedMode=view_only_without_ui&moveToViewport=-3934,-1740,4475,2091&embedId=679975108027" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-### 12:15 - 13:15 Lunch
+## Next steps
 
-
-## Participation
-
-**Submission Format:** Example of your work, such as a case study, position statement or equivalent, that demonstrates engagement either with rural informatics/rural computing or with a relevant area of interest
-
-**Submission Deadline:** ~~May 30th~~ June 12th, 2025 (23:59 AoE)
-
-**Notification of Acceptance:** June 17th, 2025
-
-**Workshop Date:** July 1, 2025
-
-**Submission Form**: [Click this link](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)
-
-### Submission Format
-
-We are asking participants  to submit an example of their work, such as a case study, position statement or equivalent, that demonstrates engagement either with rural informatics/rural computing or with a relevant area of interest. We are keen to keep the barrier to entry as low as possible to encourage participation from a wide range of academics and practitioners
-
-We will select participants on the basis of ensuring
-the discussions are dynamic and engaging and that all participants have time and
-space to contribute whilst also including a broad range of backgrounds and
-perspectives.
-
-The deadline for submissions is the*~~30th May~~**12th June** (23:59 AoE). Successful authors will be notified on the 17th June and the workshop will take place on the 1st July.
-
-Please submit using **[this form](https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h-KB8YKuT_ZFnVbg1fRTp_VUQVJVUUQ5UVFaSzNEUDRFTFExMUs3SjBIWC4u)**.
-
-### Registration
-
-Workshop participants must register for either the Pre-Conference or Full Week conference.
-
-**The deadline for early-bird registration has now been extended to the 30th May and prices for pre-conference registration have been reduced.**
-
-Details about conference registration can be found on the ECSCW '25 conference website **[here](https://ecscw.eusset.eu/2025/index.php/registration-costs/)**
-
-### Workshop Themes
-
-The overall aim of this workshop will be to create a plan of action for future rural
-informatics research that bridges sociological considerations (i.e. that has a good
-understanding of the challenges) with computing (i.e. what are the technological
-potentials for sustainable and resilient rural communities). We aim to explore:
-what approaches are required in rural contexts? What can we learn from prior
-CSCW work and its breakdowns? What additional complexities are there when
-designing technologies in, for, with, and from the rural?
-
-We suggest five broad topics for discussion, that cover the ontological nature (how
-the rural came to be), epistemological questions (how we know and understand the
-rural) and methodological questions (how we intervene as researchers and
-designers) relevant to rural computing research:
-
-1. Approaching the rural: Why rural? Establishing motivations and
-inspirations.
-2. Defining the rural: Who isrural? Identities, characteristics, and positionality.
-3. Imagining the rural: Where is the rural? Contexts, boundaries, and
-discourses; there is no single vantage point from which to see the rural whole;
-so, we need to reflect upon the lenses (e.g. academic, media, lay), and frames
-that we privilege, bypass, draw from, start from or end with.
-4. Re-imagining the rural: When is the rural? How could different lenses and
-frames of rural identities be used to re-imagine the rural?
-5. Re-making the rural: How rural? Setting out approaches, methods, and
-priorities.
 
 ## Organisers
 
