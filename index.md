@@ -26,6 +26,8 @@ rural challenges where CSCW researchers can have the biggest impact.
 
 The workshop ran over a half-day.
 
+<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 ### 9:30 - 10:30  Presentations and provocations
 
 Participants were invited to give short "lightning" presentations of around 3-5 mins to introduce themselves and their experiences of working in rural settings.
