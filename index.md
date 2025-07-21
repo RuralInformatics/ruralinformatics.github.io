@@ -24,11 +24,17 @@ rural challenges where CSCW researchers can have the biggest impact.
 
 ## Schedule
 
-The workshop will run over a half-day.
+The workshop ran over a half-day.
 
 ### 9:30 - 10:30  Presentations and provocations
 
-Participants will be invited to give short "lightning" presentations of around 3-5 mins where people can introduce themselves and their experiences of working in rural settings.
+Participants were invited to give short "lightning" presentations of around 3-5 mins to introduce themselves and their experiences of working in rural settings.
+
+![Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg)
+[**Thomas Ludwig**](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
+
+![Sharon Wagg](https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb)
+[**Sharon Wagg**](https://sheffield.ac.uk/ijc/people/sharon-wagg) - Digital Inclusion Network Development: A Case Study In Derbyshire
 
 **Presentations**
 - Thomas Ludwig - Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change
