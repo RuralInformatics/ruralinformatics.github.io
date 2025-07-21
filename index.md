@@ -145,6 +145,7 @@ priorities.
 ## Organisers
 
 <img src="https://openlab.ncl.ac.uk/assets/people-ben-davies-medium.jpg" width="100">
+
 [Ben Davies](https://openlab.ncl.ac.uk/people/ben-davies/)
 
 Ben is a first year PhD student exploring the design and use of digital technologies
@@ -153,6 +154,7 @@ infrastructures support information sharing and civic participation, and in the
 potential for socio-technical innovations to support rural resilience.
 
 <img src="https://openlab.ncl.ac.uk/assets/people-ian-johnson-medium.jpg" width="100">
+
 [Ian G Johnson](https://openlab.ncl.ac.uk/people/ian-johnson/)
 
 Ian is a Lecturer in Human-Computer Interaction and Community Technologies at
@@ -167,6 +169,7 @@ discourse, and on the way citizen-led organizations can create resources for
 democratic action through configuring participation during local consultation.
 
 <img src="https://openlab.ncl.ac.uk/assets/people-nick-taylor2-medium.jpg" width="100">
+
 [Nick Taylor](https://openlab.ncl.ac.uk/people/nick-taylor/)
 
 Nick is a Senior Lecturer in Human-Computer Interaction in Open Lab at
@@ -177,6 +180,7 @@ role of technology in communities, including longitudinal technology deployments
 in rural Lancashire.
 
 <img src="https://rai.ac.uk/wp-content/uploads/2025/02/Alan-Chamberlain.png" width="100">
+
 [Alan Chamberlain](https://www.nottingham.ac.uk/computerscience/people/alan.chamberlain)
 
 Alan is a Principal Research Fellow at the University of Nottingham, in the Mixed
