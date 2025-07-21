@@ -60,6 +60,8 @@ Small group discussions envisaging possible actions that could be taken by the r
 
 Each group will be able to feed back their actions. Collectively actions will be prioritised based on which might have the greatest impact and which actions face the most barriers to implementation. The result will be some immediate next steps in the form of key directions for CSCW research to engage with rural challenges.
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?embedMode=view_only_without_ui&moveToViewport=-3934,-1740,4475,2091&embedId=679975108027" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ### 12:15 - 13:15 Lunch
 
 
