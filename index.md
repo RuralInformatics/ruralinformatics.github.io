@@ -63,7 +63,7 @@ Participants were given pre-filled "workbooks" to provide some structure to the 
 
 <iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={ec973a7b-bbfc-4de2-a08f-1890a955de7b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-## Participants and presentations
+## Participants 
 
 Eleven people participated in our hybrid workshop - three online and eight in person.
 
@@ -101,7 +101,7 @@ Fragility was identified as a theme linking infrastructure, technology, human ne
 
 
 
-## Prioritising actions
+## Plan
 
 After briefly feeding back as a group, further small group discussions then envisaged possible actions that could be taken by the rural CSCW community to further the previously identified goals.
 
