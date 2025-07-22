@@ -27,7 +27,7 @@ collaboratively set pathways and approaches for a rural informatics research
 agenda. As a result of the workshop we began to put together an action plan to orient future activity around key
 rural challenges where CSCW researchers could have the biggest impact.
 
-<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="100%" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 ## Workshop Themes
@@ -61,7 +61,7 @@ priorities.
 
 Participants were given pre-filled "workbooks" to provide some structure to the discussions and activities. 
 
-<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={ec973a7b-bbfc-4de2-a08f-1890a955de7b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="768px" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={ec973a7b-bbfc-4de2-a08f-1890a955de7b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="100%" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Participants 
 
@@ -71,14 +71,14 @@ Participants were invited to give short "lightning" presentations of around 3-5 
 
 | | | |
 |-|-|-|
-| <img src="https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg" minimum-width="100"> | [Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) | Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change |
-| <img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb" minimum-width="100"> | [Sharon Wagg](https://sheffield.ac.uk/ijc/people/sharon-wagg) | Digital Inclusion Network Development: A Case Study In Derbyshire |
-| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2024/02/Bewerbungsbild.png" minimum-width="100"> | [Philipp Rutz](https://italg.wineme.uni-siegen.de/en/team/m-sc-philipp-rutz/) | Transformation of the Automotive Industry in German Rural Regions |
-| <img src="https://www.lut.fi/sites/default/files/styles/profile_image_2x/public/profiles/Antti_Knutas_40268_1713277570.jpg.webp?itok=IlkvzEBN" minimum-width="100"> | [Antti Knutas](https://www.lut.fi/en/profiles/antti-knutas) | Energy Interface Design Principle Prioritization Workshop (for Rural Finnish Households) |
-| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2017/11/Sven_Hoffmann.jpg" minimum-width="100"> | [Sven Hoffmann](https://www.wineme.uni-siegen.de/team/hoffmann/) | Convergence of Digitalisation and Circular Economy |
-| <img src="http://www.alandix.com/images/alan-australia.jpg" minimum-width="100"> | [Alan Dix](https://alandix.com/) | Tiree Tech Waves |
-| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2016/11/volker_wulf.jpg" minimum-width="100"> | [Volker Wulf](https://www.wineme.uni-siegen.de/team/wulf/) | |
-| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" minimum-width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
+| <img src="https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg" width="100" minimum-width="100"> | [Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) | Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change |
+| <img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb" width="100" minimum-width="100"> | [Sharon Wagg](https://sheffield.ac.uk/ijc/people/sharon-wagg) | Digital Inclusion Network Development: A Case Study In Derbyshire |
+| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2024/02/Bewerbungsbild.png" width="100" minimum-width="100"> | [Philipp Rutz](https://italg.wineme.uni-siegen.de/en/team/m-sc-philipp-rutz/) | Transformation of the Automotive Industry in German Rural Regions |
+| <img src="https://www.lut.fi/sites/default/files/styles/profile_image_2x/public/profiles/Antti_Knutas_40268_1713277570.jpg.webp?itok=IlkvzEBN" width="100" minimum-width="100"> | [Antti Knutas](https://www.lut.fi/en/profiles/antti-knutas) | Energy Interface Design Principle Prioritization Workshop (for Rural Finnish Households) |
+| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2017/11/Sven_Hoffmann.jpg" width="100" minimum-width="100"> | [Sven Hoffmann](https://www.wineme.uni-siegen.de/team/hoffmann/) | Convergence of Digitalisation and Circular Economy |
+| <img src="http://www.alandix.com/images/alan-australia.jpg" width="100" minimum-width="100"> | [Alan Dix](https://alandix.com/) | Tiree Tech Waves |
+| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2016/11/volker_wulf.jpg" width="100" minimum-width="100"> | [Volker Wulf](https://www.wineme.uni-siegen.de/team/wulf/) | |
+| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" width="100" minimum-width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
 
   
 ## From themes to (goals to) actions
@@ -107,7 +107,7 @@ After briefly feeding back as a group, further small group discussions then envi
 
 This Miro board represents a first attempt by the organisers to group these actions into a plan and a resource for future research. As it stands the plan is a work in progress, intended to stimulate further discussions and collaborations around rural computing.  
 
-<iframe width="768" height="496" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?focusWidget=3458764599827483457&embedMode=view_only_without_ui&embedId=348870768919" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="100%" height="496" src="https://miro.com/app/live-embed/uXjVIin1fZM=/?focusWidget=3458764599827483457&embedMode=view_only_without_ui&embedId=348870768919" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Next steps
 
