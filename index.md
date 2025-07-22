@@ -2,7 +2,7 @@
 layout: home.njk
 ---
 
-![Header](/assets/hero.jpg)
+![Header](/assets/shared image.jfif)
 
 ## Introduction
 
