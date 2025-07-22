@@ -2,7 +2,7 @@
 layout: home.njk
 ---
 
-![Header image](https://newcastle-my.sharepoint.com/:i:/r/personal/c4069226_newcastle_ac_uk/Documents/BD_PhD/ecscw%202025/shared%20image.jfif?csf=1&web=1&e=fSqSb0)
+<iframe src="https://drive.google.com/file/d/1aliWblBRuaX2P4U-89fKLafAvy-vnj96/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 ## Introduction
 
@@ -61,7 +61,7 @@ priorities.
 
 Participants were given pre-filled "workbooks" to provide some structure to the discussions and activities. 
 
-<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={ec973a7b-bbfc-4de2-a08f-1890a955de7b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="100%" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHAX8XsU1uyIa8qfdgHME00l3mbTrwVnY5hvOarU0nnSA3cWo_vPZeksE_vscGWayF9ZOXS5iLorLc/pubembed?start=false&loop=false&delayms=15000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Participants 
 
