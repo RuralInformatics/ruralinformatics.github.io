@@ -71,14 +71,14 @@ Participants were invited to give short "lightning" presentations of around 3-5 
 
 | | | |
 |-|-|-|
-| <img src="https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg" width="100"> | [Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) | Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change |
-| <img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb" width="100"> | [Sharon Wagg](https://sheffield.ac.uk/ijc/people/sharon-wagg) | Digital Inclusion Network Development: A Case Study In Derbyshire |
-| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2024/02/Bewerbungsbild.png" width="100"> | [Philipp Rutz](https://italg.wineme.uni-siegen.de/en/team/m-sc-philipp-rutz/) | Transformation of the Automotive Industry in German Rural Regions |
-| <img src="https://www.lut.fi/sites/default/files/styles/profile_image_2x/public/profiles/Antti_Knutas_40268_1713277570.jpg.webp?itok=IlkvzEBN" width="100"> | [Antti Knutas](https://www.lut.fi/en/profiles/antti-knutas) | Energy Interface Design Principle Prioritization Workshop (for Rural Finnish Households) |
-| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2017/11/Sven_Hoffmann.jpg" width="100"> | [Sven Hoffmann](https://www.wineme.uni-siegen.de/team/hoffmann/) | Convergence of Digitalisation and Circular Economy |
-| <img src="http://www.alandix.com/images/alan-australia.jpg" width="100"> | [Alan Dix](https://alandix.com/) | Tiree Tech Waves |
-| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2016/11/volker_wulf.jpg" width="100"> | [Volker Wulf](https://www.wineme.uni-siegen.de/team/wulf/) | |
-| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
+| <img src="https://cps.wineme.fb5.uni-siegen.de/wp-content/uploads/2021/02/foto_thomas_Ludwig_4.jpg" minimum-width="100"> | [Thomas Ludwig](https://cps.wineme.fb5.uni-siegen.de/team/ludwig/) | Broad-based Digital Transformation: A South Westphalian Perspective on Participatory Socio-Technical Change |
+| <img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-11/Sharon%20Wagg.jpg?h=d7469207&itok=1Of6NKIb" minimum-width="100"> | [Sharon Wagg](https://sheffield.ac.uk/ijc/people/sharon-wagg) | Digital Inclusion Network Development: A Case Study In Derbyshire |
+| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2024/02/Bewerbungsbild.png" minimum-width="100"> | [Philipp Rutz](https://italg.wineme.uni-siegen.de/en/team/m-sc-philipp-rutz/) | Transformation of the Automotive Industry in German Rural Regions |
+| <img src="https://www.lut.fi/sites/default/files/styles/profile_image_2x/public/profiles/Antti_Knutas_40268_1713277570.jpg.webp?itok=IlkvzEBN" minimum-width="100"> | [Antti Knutas](https://www.lut.fi/en/profiles/antti-knutas) | Energy Interface Design Principle Prioritization Workshop (for Rural Finnish Households) |
+| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2017/11/Sven_Hoffmann.jpg" minimum-width="100"> | [Sven Hoffmann](https://www.wineme.uni-siegen.de/team/hoffmann/) | Convergence of Digitalisation and Circular Economy |
+| <img src="http://www.alandix.com/images/alan-australia.jpg" minimum-width="100"> | [Alan Dix](https://alandix.com/) | Tiree Tech Waves |
+| <img src="https://www.wineme.uni-siegen.de/wp-content/uploads/2016/11/volker_wulf.jpg" minimum-width="100"> | [Volker Wulf](https://www.wineme.uni-siegen.de/team/wulf/) | |
+| <img src="https://italg.wineme.uni-siegen.de/wp-content/uploads/2020/10/DSC_1295-Bearbeitet-scaled-e1602256347804.jpg" minimum-width="100"> | [Claudia Müller](https://italg.wineme.uni-siegen.de/en/team/assistant-prof-dr-claudia-muller/) | |
 
   
 ## From themes to (goals to) actions
