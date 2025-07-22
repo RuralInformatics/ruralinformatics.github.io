@@ -27,7 +27,7 @@ collaboratively set pathways and approaches for a rural informatics research
 agenda. As a result of the workshop we began to put together an action plan to orient future activity around key
 rural challenges where CSCW researchers could have the biggest impact.
 
-<iframe src="https://newcastle-my.sharepoint.com/personal/c4069226_newcastle_ac_uk/_layouts/15/Doc.aspx?sourcedoc={c0753544-ee65-402d-912b-afe52431f984}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="100%" height="432px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWrLnWDAgJgDTVQhFMjmflqEucLEMzMRhEntDcMlbp8MrP2XTqttG0ZA4xyvnG99nDP3MH67vTsO1O/pubembed?start=false&loop=false&delayms=15000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Workshop Themes
