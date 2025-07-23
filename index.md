@@ -6,7 +6,7 @@ layout: home.njk
 
 ## Introduction
 
-Despite almost a quarter of the world’s population living in rural areas, ruralfocused CSCW makes up a tiny fraction of published CSCW research and design. When CSCW work does focus on the rural there are issues with the way rurality is identified and
+Despite almost a quarter of the world’s population living in rural areas, rural focused CSCW makes up a tiny fraction of published CSCW research and design. When CSCW work does focus on the rural there are issues with the way rurality is identified and
 understood and limitations in the approaches to research and design in rural contexts.
 Building on a recent increased interest in rural informatics, which has drawn on social
 science scholarship to take stock of previous rural research and set an agenda for rural
@@ -16,7 +16,7 @@ areas and the importance of information technology to rural resilience is ever m
 apparent, the need to innovate and design from the rural must become more central to
 CSCW. 
 
-This workshop took place at the ECSCW 2025 conference at Newcastle University on the 1st July. 
+This workshop took place at the ECSCW 2025 conference in Newcastle upon Tyne on the 1st July. 
 
 The aim of this workshop was to  provide researchers and practitioners interested in rural CSCW
 and rural computing an opportunity to discuss future directions and share insights,
@@ -59,7 +59,7 @@ priorities.
 
 ## Materials
 
-Participants were given pre-filled "workbooks" to provide some structure to the discussions and activities. 
+Participants were given partially pre-filled "workbooks" to provide some structure to the discussions and activities. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHAX8XsU1uyIa8qfdgHME00l3mbTrwVnY5hvOarU0nnSA3cWo_vPZeksE_vscGWayF9ZOXS5iLorLc/pubembed?start=false&loop=false&delayms=15000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
